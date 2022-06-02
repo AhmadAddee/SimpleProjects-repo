@@ -13,7 +13,5 @@ public class Welcome {
         String name = scan.nextLine();
 
         System.out.println("Welcome to Java, " + name + " " + Suit.CLUBS);
-
-        scan.close();
     }
 }
